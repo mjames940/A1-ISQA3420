@@ -8,19 +8,27 @@ Ext 2: Manager
 Dataflows-
 
 DAF 1: Software Package
-DAF 2:Software Package License Results
-DAF 3: OSS Software Component
-DAF 4:
-DAF 5:
-DAF 6:
+DAF 2: Software Package License and Vulnerability Results
+DAF 3: Software Package Name
+DAF 4: Known Vulnerability Issues
+DAF 5: Software Package Components Request
+DAF 6: Software Package Component
+DAF 7: OSS Software Components Request
+DAF 8: OSS Software Componets
+DAF 9: OSS Software Components Violations
+
 
 Data Stores-
 
 DS 1: OSS Software Components
+DS 2: NIST Vulnerability DB
+DS 3: Corporate Policy
 
 Processes:
 
 PRC 1: Manage Software Package for License Scanning
 PRC 2: Scan for Licenses
-PRC 3. Retrieve OSS Software Components
+PRC 3: Retrieve OSS Software Components
+PRC 4: Determine Violations in Corporate Policies
+PRC 5: Modify Policy Documents
 
