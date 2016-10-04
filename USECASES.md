@@ -11,9 +11,9 @@ Preconditions: <br />
   * OSS Software components has relavant data <br />
   * Properproject infomormation has been provided <br />
   
-  Main Success Scenario: Manager recieves accurate license and vulnerability information for the requested project packages <br />
-  Failed End Conditions: Manager recieves inacurrate or invalid license and vulnerability information for the requested project packages <br />
-  Trigger: Manager identifies project information to which license and vulnerability information is provided <br />
+Main Success Scenario: Manager recieves accurate license and vulnerability information for the requested project packages <br />
+Failed End Conditions: Manager recieves inacurrate or invalid license and vulnerability information for the requested project packages <br />
+Trigger: Manager identifies project information to which license and vulnerability information is provided <br />
 
 
 ##Use Case 2 <br />
