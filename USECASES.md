@@ -1,6 +1,7 @@
 
 Use Case 1
 Title: Determine License and Vulnerability Information
+
 Primary Actor: Manager
 Goal in Context: The manager is able to determine license and vulnerability information provided by the project information
 Stakeholders: 
