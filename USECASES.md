@@ -25,6 +25,7 @@ Stakeholders: <br />
 Preconditions: <br />
   * Software packages are managed properly for licenses scanning <br />
   * Software packages are provided correctly to the scanner <br />
+  
 Main Success Scenario: Accurate license and vulneability information is provided to the Developer for the given software package <br />
 Failed End Conditions: Developer recives inaccurate or invalid license and vulnerability information for the provided software package <br />
 Trigger: Developer provides a software package to be managed for scanning <br />
@@ -40,8 +41,7 @@ Stakeholders: <br />
 Preconditions: <br />
   * Software package license and vulnerabilities are scanned and stored correctly to have a correct comparison <br />
   * Software packages license and vulnerabilities are provided correctly to be compared to the database <br />
-Main Success Scenario: Accurate license and vulnerability information is provided to be compared to the corporate policy <br />
-and all violations are returned to the actor <br />
-Failed End Conditions: Developer provides inaccurate or invalid license and vulnerability information to be compared <br />
-and inacurate violations are returned <br />
+  
+Main Success Scenario: Accurate license and vulnerability information is provided to be compared to the corporate policy and all violations are returned to the actor <br />
+Failed End Conditions: Developer provides inaccurate or invalid license and vulnerability information to be compared and inacurate violations are returned <br />
 Trigger: Developer or Manager provides the license ad vulnerability results to be compared to the corporate policy <br />
