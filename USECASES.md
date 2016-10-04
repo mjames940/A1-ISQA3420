@@ -1,5 +1,5 @@
 
-Use Case 1 <br />
+##Use Case 1 <br />
 Title: Determine License and Vulnerability Information <br />
 Primary Actor: Manager <br />
 Goal in Context: The manager is able to determine license and vulnerability information provided by the project information <br />
@@ -15,7 +15,7 @@ Preconditions: <br />
   Trigger: Manager identifies project information to which license and vulnerability information is provided <br />
 
 
-Use Case 2 <br />
+##Use Case 2 <br />
 Title: Scan Software Package for Licenses and Vulnerabilities <br />
 Primary Actor: Developer <br />
 Goal in Context: The software packages are scanned and the correct license information is returned <br />
@@ -29,14 +29,13 @@ Failed End Conditions: Developer recives inaccurate or invalid license and vulne
 Trigger: Developer provides a software package to be managed for scanning <br />
 
 
-Use Case 3 <br />
+##Use Case 3 <br />
 Title: Determine Violations in Corporate Policies <br />
 Primary Actor: Developer, Manager <br />
 Goal in Context: The software package license and vunerabilities are compared to the corporate policy and the <br />
 violations are returned to the actor <br />
 Stakeholders: <br />
-  * Developer and Manager: To provide the relavant software package license and vulnerabilities to be compared to the corporate policy <br />
-  
+  * Developer and Manager: To provide the relavant software package license and vulnerabilities to be compared to the corporate policy <br />  
 Preconditions: <br />
   * Software package license and vulnerabilities are scanned and stored correctly to have a correct comparison <br />
   * Software packages license and vulnerabilities are provided correctly to be compared to the database <br />
