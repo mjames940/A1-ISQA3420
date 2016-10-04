@@ -1,6 +1,6 @@
 
 ##Use Case 1 <br />
-<h5>Title:</h5> Determine License and Vulnerability Information <br />
+Title: Determine License and Vulnerability Information <br />
 Primary Actor: Manager <br />
 Goal in Context: The manager is able to determine license and vulnerability information provided by the project information <br />
 Stakeholders: <br />
@@ -36,7 +36,7 @@ Primary Actor: Developer, Manager <br />
 Goal in Context: The software package license and vunerabilities are compared to the corporate policy and the <br />
 violations are returned to the actor <br />
 Stakeholders: <br />
-  * Developer and Manager: To provide the relavant software package license and vulnerabilities to be compared to the corporate policy <br />  
+  * Developer and Manager: To provide the relavant software package license and vulnerabilities to be compared to the corporate policy <br />
 Preconditions: <br />
   * Software package license and vulnerabilities are scanned and stored correctly to have a correct comparison <br />
   * Software packages license and vulnerabilities are provided correctly to be compared to the database <br />
