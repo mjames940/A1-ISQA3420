@@ -44,6 +44,6 @@ Preconditions: <br />
   * Software package license and vulnerabilities are scanned and stored correctly to have a correct comparison <br />
   * Software packages license and vulnerabilities are provided correctly to be compared to the database <br />
   
-**Main Success Scenario: Accurate license and vulnerability information is provided to be compared to the corporate policy and all violations are returned to the actor <br />
-**Failed End Conditions: Developer provides inaccurate or invalid license and vulnerability information to be compared and inacurate violations are returned <br />
-**Trigger: Developer or Manager provides the license ad vulnerability results to be compared to the corporate policy <br />
+Main Success Scenario: Accurate license and vulnerability information is provided to be compared to the corporate policy and all violations are returned to the actor <br />
+Failed End Conditions: Developer provides inaccurate or invalid license and vulnerability information to be compared and inacurate violations are returned <br />
+Trigger: Developer or Manager provides the license ad vulnerability results to be compared to the corporate policy <br />
