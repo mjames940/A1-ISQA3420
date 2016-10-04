@@ -1,12 +1,11 @@
 
 ##Use Case 1 <br />
-Title: Determine License and Vulnerability Information <br />
+<h5>Title:</h5> Determine License and Vulnerability Information <br />
 Primary Actor: Manager <br />
 Goal in Context: The manager is able to determine license and vulnerability information provided by the project information <br />
 Stakeholders: <br />
   * Manager: To recieve clear and relavant projet information <br />
   * Developer: To provide the relavant software package information <br />
-  
 Preconditions: <br />
   * OSS Software components has relavant data <br />
   * Properproject infomormation has been provided <br />
