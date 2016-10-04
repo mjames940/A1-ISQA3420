@@ -6,6 +6,7 @@ Goal in Context: The manager is able to determine license and vulnerability info
 Stakeholders: <br />
   * Manager: To recieve clear and relavant projet information <br />
   * Developer: To provide the relavant software package information <br />
+  
 Preconditions: <br />
   * OSS Software components has relavant data <br />
   * Properproject infomormation has been provided <br />
@@ -21,6 +22,7 @@ Primary Actor: Developer <br />
 Goal in Context: The software packages are scanned and the correct license information is returned <br />
 Stakeholders: <br />
   * Developer: To provide the relavant software package information for the scanner <br />
+  
 Preconditions: <br />
   * Software packages are managed properly for licenses scanning <br />
   * Software packages are provided correctly to the scanner <br />
@@ -37,10 +39,11 @@ Goal in Context: The software package license and vunerabilities are compared to
 violations are returned to the actor <br />
 Stakeholders: <br />
   * Developer and Manager: To provide the relavant software package license and vulnerabilities to be compared to the corporate policy <br />
+  
 Preconditions: <br />
   * Software package license and vulnerabilities are scanned and stored correctly to have a correct comparison <br />
   * Software packages license and vulnerabilities are provided correctly to be compared to the database <br />
   
-Main Success Scenario: Accurate license and vulnerability information is provided to be compared to the corporate policy and all violations are returned to the actor <br />
-Failed End Conditions: Developer provides inaccurate or invalid license and vulnerability information to be compared and inacurate violations are returned <br />
-Trigger: Developer or Manager provides the license ad vulnerability results to be compared to the corporate policy <br />
+**Main Success Scenario: Accurate license and vulnerability information is provided to be compared to the corporate policy and all violations are returned to the actor <br />
+**Failed End Conditions: Developer provides inaccurate or invalid license and vulnerability information to be compared and inacurate violations are returned <br />
+**Trigger: Developer or Manager provides the license ad vulnerability results to be compared to the corporate policy <br />
