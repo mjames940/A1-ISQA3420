@@ -14,8 +14,14 @@ DAF 4: Known Vulnerability Issues
 DAF 5: Software Package Components Request
 DAF 6: Software Package Component
 DAF 7: OSS Software Components Request
-DAF 8: OSS Software Componets
+DAF 8: OSS Software Components
 DAF 9: OSS Software Components Violations
+DAF 10: Software Package License
+DAF 11: Corporate licenses and vulnerability threshold
+DAF 12: Corporate licenses and vulnerability threshhold request
+DAF 13: Confirmation??
+DAF 14:Corporate Policy Modification??
+
 
 
 Data Stores-
