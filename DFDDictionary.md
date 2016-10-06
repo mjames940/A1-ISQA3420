@@ -1,11 +1,11 @@
-Data Flow Dictionary</br>
+##Data Flow Dictionary</br>
 
-External Entities/Externals-</br>
+###External Entities/Externals-</br>
 
 Ext 1: Developer </br>
 Ext 2: Manager</br>
 
-Dataflows-</br>
+###Dataflows-</br>
 
 DAF 1: Software Package</br>
 DAF 2: Software Package License and Vulnerability Results</br>
@@ -24,13 +24,13 @@ DAF 14:Corporate Policy Modification??</br>
 
 
 
-Data Stores-</br>
+###Data Stores-</br>
 
 DS 1: OSS Software Components</br>
 DS 2: NIST Vulnerability DB</br>
 DS 3: Corporate Policy</br>
 
-Processes:</br>
+###Processes:</br>
 
 PRC 1: Manage Software Package for License Scanning</br>
 PRC 2: Scan for Licenses</br>
