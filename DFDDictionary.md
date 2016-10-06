@@ -30,7 +30,7 @@ DS 1: OSS Software Components</br>
 DS 2: NIST Vulnerability DB</br>
 DS 3: Corporate Policy</br>
 
-###Processes:</br>
+###Processes-</br>
 
 PRC 1: Manage Software Package for License Scanning</br>
 PRC 2: Scan for Licenses</br>
