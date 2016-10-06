@@ -1,16 +1,16 @@
-Data Flow Dictionary
+Data Flow Dictionary</br>
 
-External Entities/Externals-
+External Entities/Externals-</br>
 
-Ext 1: Developer
-Ext 2: Manager
+Ext 1: Developer </br>
+Ext 2: Manager</br>
 
-Dataflows-
+Dataflows-</br>
 
-DAF 1: Software Package
-DAF 2: Software Package License and Vulnerability Results
-DAF 3: Software Package Name
-DAF 4: Known Vulnerability Issues
+DAF 1: Software Package</br>
+DAF 2: Software Package License and Vulnerability Results</br>
+DAF 3: Software Package Name</br>
+DAF 4: Known Vulnerability Issues</br>
 DAF 5: Software Package Components Request
 DAF 6: Software Package Component
 DAF 7: OSS Software Components Request
