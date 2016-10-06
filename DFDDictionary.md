@@ -11,30 +11,30 @@ DAF 1: Software Package</br>
 DAF 2: Software Package License and Vulnerability Results</br>
 DAF 3: Software Package Name</br>
 DAF 4: Known Vulnerability Issues</br>
-DAF 5: Software Package Components Request
-DAF 6: Software Package Component
-DAF 7: OSS Software Components Request
-DAF 8: OSS Software Components
-DAF 9: OSS Software Components Violations
-DAF 10: Software Package License
-DAF 11: Corporate licenses and vulnerability threshold
-DAF 12: Corporate licenses and vulnerability threshhold request
-DAF 13: Confirmation??
-DAF 14:Corporate Policy Modification??
+DAF 5: Software Package Components Request</br>
+DAF 6: Software Package Component</br>
+DAF 7: OSS Software Components Request</br>
+DAF 8: OSS Software Components</br>
+DAF 9: OSS Software Components Violations</br>
+DAF 10: Software Package License</br>
+DAF 11: Corporate licenses and vulnerability threshold</br>
+DAF 12: Corporate licenses and vulnerability threshhold request</br>
+DAF 13: Confirmation??</br>
+DAF 14:Corporate Policy Modification??</br>
 
 
 
-Data Stores-
+Data Stores-</br>
 
-DS 1: OSS Software Components
-DS 2: NIST Vulnerability DB
-DS 3: Corporate Policy
+DS 1: OSS Software Components</br>
+DS 2: NIST Vulnerability DB</br>
+DS 3: Corporate Policy</br>
 
-Processes:
+Processes:</br>
 
-PRC 1: Manage Software Package for License Scanning
-PRC 2: Scan for Licenses
-PRC 3: Retrieve OSS Software Components
-PRC 4: Determine Violations in Corporate Policies
-PRC 5: Modify Policy Documents
+PRC 1: Manage Software Package for License Scanning</br>
+PRC 2: Scan for Licenses</br>
+PRC 3: Retrieve OSS Software Components</br>
+PRC 4: Determine Violations in Corporate Policies</br>
+PRC 5: Modify Policy Documents</br>
 
