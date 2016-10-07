@@ -7,28 +7,27 @@ Ext 2: Manager- The employee that oversees the operations of the system</br>
 
 ###Dataflows-</br>
 
-DAF 1: Software Package</br>
-DAF 2: Software Package License and Vulnerability Results</br>
-DAF 3: Software Package Name</br>
-DAF 4: Known Vulnerability Issues</br>
-DAF 5: Software Package Components Request</br>
-DAF 6: Software Package Component</br>
-DAF 7: OSS Software Components Request</br>
-DAF 8: OSS Software Components</br>
-DAF 9: OSS Software Components Violations</br>
-DAF 10: Software Package License</br>
-DAF 11: Corporate licenses and vulnerability threshold</br>
-DAF 12: Corporate licenses and vulnerability threshhold request</br>
-DAF 13: Confirmation??</br>
-DAF 14:Corporate Policy Modification??</br>
+DAF 1: Software Package- collection fo code files</br>
+DAF 2: Software Package License and Vulnerability Results- The list of licenses and vulnerabilities reported by the scanner</br>
+DAF 3: Software Package Name- The name fo the package discovered by the scanner</br>
+DAF 4: Known Vulnerability Issues- The vulnerability issues stored in the organizations database</br>
+DAF 5: Software Package Component- The stored compontent of software stored in the database</br>
+DAF 6: OSS Software Components Request- The request to obtain the software component from the database</br>
+DAF 7: OSS Software Components</br>
+DAF 8: OSS Software Components Violations</br>
+DAF 9: Software Package License</br>
+DAF 10: Corporate licenses and vulnerability threshold</br>
+DAF 11: Corporate licenses and vulnerability threshold request</br>
+DAF 12: Confirmation??</br>
+DAF 13:Corporate Policy Modification??</br>
 
 
 
 ###Data Stores-</br>
 
 DS 1: OSS Software Components</br>
-DS 2: NIST Vulnerability DB</br>
-DS 3: Corporate Policy</br>
+DS 2: NIST Vulnerability DB- The vulnerabilities discovered by the scanner</br>
+DS 3: Corporate Policy- The policies on licenses and vulnerabilities set by the organization</br>
 
 ###Processes-</br>
 
