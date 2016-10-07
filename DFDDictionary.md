@@ -2,8 +2,8 @@
 
 ###External Entities/Externals-</br>
 
-Ext 1: Developer </br>
-Ext 2: Manager</br>
+Ext 1: Developer- The create and contributer to the system</br>
+Ext 2: Manager- The employee that oversees the operations of the system</br>
 
 ###Dataflows-</br>
 
