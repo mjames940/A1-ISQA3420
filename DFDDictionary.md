@@ -1,13 +1,13 @@
 #Data Flow Dictionary</br>
 
-###External Entities/Externals-</br>
+###External Entities/Externals:</br>
 
-**Developer**- The create and contributer to the system</br>
-**Manager**- The employee that oversees the operations of the system</br>
+**Developer**- The creator/contributor to the software packages who also prepares the software packages for license scanning</br>
+**Manager**- The employee that oversees the software packages and corporate policies</br>
 
-###Dataflows-</br>
+###Dataflows:</br>
 
-**Software Package**- collection fo code files</br>
+**Software Package**- Collection of code files</br>
 **Software Package License and Vulnerability Results**- The list of licenses and vulnerabilities reported by the scanner</br>
 **Software Package Name**- The name fo the package discovered by the scanner</br>
 **Known Vulnerability Issues**- The vulnerability issues stored in the organizations database</br>
@@ -23,16 +23,16 @@
 
 
 
-###Data Stores-</br>
+###Data Stores:</br>
 
-**OSS Software Components*-</br>
+**OSS Software Components**-</br>
 **NIST Vulnerability DB**- The vulnerabilities discovered by the scanner</br>
 **Corporate Policy**- The policies on licenses and vulnerabilities set by the organization</br>
 
-###Processes-</br>
+###Processes:</br>
 
 **Manage Software Package for License Scanning**-</br>
-**Scan for Licenses**-</br>
+**Scan for Licenses**- The scanning for al licenses that can be found in the software package.</br>
 **Retrieve OSS Software Components**-</br>
 **Determine Violations in Corporate Policies**-</br>
 **Modify Policy Documents**-</br>
